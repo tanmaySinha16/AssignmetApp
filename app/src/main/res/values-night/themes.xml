@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AssignmentApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/action_bar</item>
+        <item name="colorPrimary">@color/selected_color</item>
+        <item name="android:colorPrimary">@color/selected_color</item>
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="Theme.AssignmentApp" parent="Base.Theme.AssignmentApp" />
+</resources>

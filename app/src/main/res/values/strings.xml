@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AssignmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_amp_explore"><![CDATA[Save & Explore]]></string>
+
+    <string-array name="Availability">
+        <item>
+            Available. Hey! Let us connect.
+        </item>
+        <item>
+            Away. Stay discreet and watch.
+        </item>
+        <item>
+            Busy. Will catch up later.
+        </item>
+        <item>
+            SOS. Need assistance! Help!
+        </item>
+    </string-array>
+</resources>
